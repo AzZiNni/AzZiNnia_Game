@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64eddaed4e646b94bb572d9236bef7cd
+timeCreated: 1430697185
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28672
+  packageName: Noise Brush
+  packageVersion: 1.3
+  assetPath: Assets/NoiseBrush/Demo/DemoScene.unity
+  uploadId: 81520

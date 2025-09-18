@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82163206ac4c58749bfa32e52c4ae160
+timeCreated: 1428753880
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28672
+  packageName: Noise Brush
+  packageVersion: 1.3
+  assetPath: Assets/NoiseBrush/Demo/Textures/Water.mat
+  uploadId: 81520

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 99b321c8c5cda564388a9bf30a336bc1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311107
+  packageName: "404\u2014GEN text-to-3D Generator"
+  packageVersion: 0.5.0
+  assetPath: Assets/404-gen-unity-plugin/HDRP and URP Support Packs/URP Support pack.unitypackage
+  uploadId: 765859

@@ -1,0 +1,4 @@
+repository "AzZiNnia.The last hope of the Cossacks 2025-06-27_12-35-53/AzZiNnia.The last hope of the Cossacks@7971959021044@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ded09a9123f90834fab4640c9229f078
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28672
+  packageName: Noise Brush
+  packageVersion: 1.3
+  assetPath: Assets/NoiseBrush/NoiseBrush.cs
+  uploadId: 81520

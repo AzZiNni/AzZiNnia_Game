@@ -1,0 +1,32 @@
+ІНСТРУКЦІЯ ПО НАЛАШТУВАННЮ MARCHING CUBES
+==========================================
+
+Щоб використовувати готову реалізацію Marching Cubes:
+
+1. Скопіюйте наступні файли з папки Marching-Cubes-master/Assets/MarchingCubes/Marching/:
+   - Marching.cs
+   - MarchingCubes.cs
+   - MarchingTertahedron.cs (якщо потрібно)
+   - VoxelArray.cs
+   
+   В папку Assets/Scripts/Voxel/MarchingCubesLib/
+
+2. Додайте namespace до цих файлів якщо потрібно або використовуйте using MarchingCubesProject;
+
+3. В Unity Editor:
+   - Виберіть GameObject з компонентом VoxelTerrain
+   - Увімкніть галочку "Use Proper Marching Cubes"
+   - Налаштуйте "Smooth Normals" за бажанням
+
+4. Альтернативний варіант - використовувати ProceduralNoiseProject з Example.cs для генерації шуму
+
+ПЕРЕВАГИ ГОТОВОЇ РЕАЛІЗАЦІЇ:
+- Перевірені та оптимізовані таблиці Marching Cubes
+- Підтримка smooth normals
+- Можливість вибору між CUBES та TETRAHEDRON режимами
+- Інтерполяція для згладжування поверхні
+
+НАЛАШТУВАННЯ:
+- Surface = 0.0f (поріг для поверхні)
+- Mode = CUBES (швидше) або TETRAHEDRON (точніше)
+- Smooth Normals = true для кращого освітлення 
